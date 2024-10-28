@@ -1,0 +1,8 @@
+# Virtual Environment should be ignored.
+blackrock_env/
+
+# Ignore the DataBranch, .env, .gitignore, .Readme.md
+DataBranch/
+.env
+.gitignore
+Readme.md
